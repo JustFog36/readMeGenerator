@@ -13,7 +13,7 @@
   - [Questions](#questions)
   
   ## Installation
-  Clone the repo, use npm i in the terminal, then use node index.js or npm start
+  Clone the repo, use npm i in the terminal, then use node index.js -CANNOT USE NPM START
   
   ## Usage
   Use the app to generate readme files for other projects.
