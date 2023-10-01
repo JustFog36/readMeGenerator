@@ -19,15 +19,15 @@
   js
   
   ## License
-  This application is covered under the Apache license.
+  This application is covered under the GPL license.
   
   ## Contributing
   js
   
   ## Tests
-  js
+  sjs
   
   ## Questions
-  - GitHub: [js](https://github.com/js)
-  - Email: js
+  - GitHub: [](https://github.com/)
+  - Email: jsjsj
     
