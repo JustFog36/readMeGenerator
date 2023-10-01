@@ -1,8 +1,8 @@
 
-  # js
+  # README Generator
   
   ## Description
-  js
+  Builds a readme file based off user input
   
   ## Table of Contents
   - [Installation](#installation)
@@ -13,21 +13,20 @@
   - [Questions](#questions)
   
   ## Installation
-  js
+  Clone the repo, use npm i in the terminal, then use node index.js -CANNOT USE NPM START
   
   ## Usage
-  js
+  Use the app to generate readme files for other projects.
   
   ## License
-  This application is covered under the GPL license.
+  This application is covered under the MIT license.
   
   ## Contributing
-  js
+  Contact Justice
   
   ## Tests
-  sjs
+  N/A
   
   ## Questions
-  - GitHub: [](https://github.com/)
-  - Email: jsjsj
-    
+  - GitHub: [JustFog36](https://github.com/JustFog36)
+  - Email: jfogle36@gmail.com
